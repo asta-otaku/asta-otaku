@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Afolabi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **Tailwind css, Node js**
 
@@ -25,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asta-otaku&show_icons=true&locale=en&layout=compact" alt="asta-otaku" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asta-otaku&show_icons=true&locale=en" alt="asta-otaku" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asta-otaku&" alt="asta-otaku" /></p>
