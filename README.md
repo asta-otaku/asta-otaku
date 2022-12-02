@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 
-- 🔭 I’m currently working on [Integrating Graphql with React](https://github.com/asta-otaku/graphql-with-react)
-
 - 🌱 I’m currently learning **Tailwind css, Node js**
 
 - 🤝 I’m looking for help with **open source projects, hackathons, internships, and job opportunities.**
