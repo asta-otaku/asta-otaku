@@ -1,28 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Afolabi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+# Hi, I'm Ibrahim Afolabi 👋
 
-- 🔭 I’m currently working on **myself**
+**Frontend Developer | React.js Enthusiast | Next.js Expert | TypeScript Advocate**
 
-- 🌱 I’m currently learning **Tailwind css, Node js**
+Welcome to my GitHub profile! I am a passionate Frontend Developer with over 3 years of experience crafting scalable, high-performance web applications using React.js, Next.js, and TypeScript. My journey in web development has been driven by a deep love for building intuitive and accessible user interfaces that not only meet the needs of users but also enhance their overall experience on the web.
 
-- 🤝 I’m looking for help with **open source projects, hackathons, internships, and job opportunities.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/asta-otaku/](https://github.com/asta-otaku/)
+## 🛠️ **Technologies & Tools**
 
-- 💬 Ask me about **React, HTML**
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
+- **State Management:** Redux, Context API, Zustand
+- **API Integration:** RESTful APIs, GraphQL, Axios
+- **Version Control:** Git, GitHub, GitLab
+- **Build Tools:** Webpack, Babel, Vite
+- **CI/CD:** GitHub Actions, Netlify, Vercel
+- **Design Tools:** Figma
 
-- 📫 How to reach me **afolabiibrahim08@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@afolabi69093815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afolabi69093815" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-afolabi-074b141a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-afolabi-074b141a9/" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahim_olashina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim_olashina" height="30" width="40" /></a>
-</p>
+## 🚀 **What I Do**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- **Scalable Frontend Architectures:** I specialize in designing and implementing scalable frontend architectures that grow with your business.
+  
+- **Responsive & Accessible UIs:** I ensure that every application I build is fully responsive and accessible to all users, regardless of device or ability.
+  
+- **Performance Optimization:** I am dedicated to optimizing the performance of web applications, focusing on reducing load times and improving overall efficiency.
+  
+- **TypeScript Expertise:** TypeScript is my go-to language for building robust and maintainable codebases, ensuring type safety and reducing bugs in production.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asta-otaku&show_icons=true&locale=en&layout=compact" alt="asta-otaku" /></p>
+- **Next.js Projects:** I leverage Next.js for server-side rendering (SSR), static site generation (SSG), and other advanced features to create lightning-fast and SEO-friendly applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asta-otaku&show_icons=true&locale=en" alt="asta-otaku" /></p>
+---
+
+## 📫 **Let's Connect**
+
+- **GitHub:** [https://github.com/asta-otaku](https://github.com/asta-otaku)
+- **LinkedIn:** [https://www.linkedin.com/in/ibrahim-afolabi-074b141a9/](https://www.linkedin.com/in/ibrahim-afolabi-074b141a9/)
+
+Feel free to reach out if you're interested in collaborating on a project or just want to talk tech!
+
+---
+
+Thank you for visiting my profile. Happy coding! 🚀
