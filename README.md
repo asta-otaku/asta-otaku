@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Afolabi 👋
 
-**Frontend Developer | React.js Enthusiast | Next.js Expert | TypeScript Advocate**
+**Frontend Developer | React.js | Next.js | TypeScript**
 
 Welcome to my GitHub profile! I am a passionate Frontend Developer with over 3 years of experience crafting scalable, high-performance web applications using React.js, Next.js, and TypeScript. My journey in web development has been driven by a deep love for building intuitive and accessible user interfaces that not only meet the needs of users but also enhance their overall experience on the web.
 
